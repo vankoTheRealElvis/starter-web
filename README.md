@@ -12,4 +12,6 @@
 
 3 And last one
 
-2014 Git training
+2018 Git training
+
+som,ething else
