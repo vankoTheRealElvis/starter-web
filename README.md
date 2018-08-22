@@ -15,3 +15,5 @@
 2018 Git training
 
 som,ething else
+
+Adding a line for rebasing example
